@@ -1,4 +1,4 @@
-# Rheem Platform "Java Stream"
+# Rheem Platform "JDBC Template"
 
 `rheem-jdbc-template` is the repository, here you can found the implementation of the operators which allow the execution of 
 platform that use a JDBC connector
